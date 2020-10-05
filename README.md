@@ -9,8 +9,8 @@
   </a>
 </p>
 
-![The Power Gym](https://github.com/[angarev]/[power-gym-site]/blob/[main]/src/images/Screenshot.png?raw=true)
+![The Power Gym](https://github.com/angarev/power-gym-site/blob/main/src/images/Screenshot.png?raw=true)
 
-[![View]](https://hopeful-stonebraker-1dbd52.netlify.app/)
+[View](https://hopeful-stonebraker-1dbd52.netlify.app/)
 
 
